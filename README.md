@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me
 
-🎓 I'm currently studying Computer Science at the [Zhejiang University](https://www.zju.edu.cn/english/).
+🎓 I'm currently studying Computer Science at [Zhejiang University](https://www.zju.edu.cn/english/).
 
 🔭 I’m currently working on [Hangzhou Hyperchain Technology](https://www.hyperchain.cn/en).
 
