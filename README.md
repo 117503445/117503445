@@ -4,8 +4,6 @@
 
 🎓 I'm currently studying Computer Science at [Zhejiang University](https://www.zju.edu.cn/english/).
 
-🔭 I’m currently working on [Hangzhou Hyperchain Technology](https://www.hyperchain.cn/en).
-
 💡 I like to explore new technologies and develop software solutions.
 
 🌱 I'm on track for learning more about Blockchain and Consensus.
