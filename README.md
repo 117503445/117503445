@@ -66,6 +66,9 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
 ![Mocha](https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=Mocha)
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)
+![code-server](https://img.shields.io/badge/-code%20server-05122A?style=flat&logo=Coder)
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)
+![Apache Guacamole](https://img.shields.io/badge/-Apache%20Guacamole-05122A?style=flat&logo=apacheguacamole)
 
 ## ⚙️ GitHub Analytics
 
