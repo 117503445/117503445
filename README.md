@@ -2,13 +2,13 @@
 
 ## 👨🏻‍💻 About Me
 
-🎓 I'm currently studying Computer Science at [Zhejiang University](https://www.zju.edu.cn/english/).
+🎓 I earned my degree in Computer Science from [**Xidian University**](https://www.xidian.edu.cn/) and [**Zhejiang University**](http://www.zju.edu.cn/).
 
-💡 I like to explore new technologies and develop software solutions.
+💻 I am currently working as a developer at [**Alibaba Cloud Function Compute**](https://www.alibabacloud.com/product/function-compute).
 
-🌱 I'm on track for learning more about Blockchain and Consensus.
+🛠️ I focus on building highly maintainable development environments, striving for automation, developer-friendliness, strong isolation, and consistency.
 
-✍️ In my free time, I pursue Cloud Computing and DevOps as hobbies.
+🧰 I am dedicated to constructing a highly maintainable HomeLab operations system, emphasizing improved overall efficiency and stability through declarative configurations and optimal reproducibility. 
 
 ## 🛠 Tech Stack
 
